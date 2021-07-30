@@ -27,8 +27,6 @@ npm install @geckos.io/server
 ## How to use
 
 ```js
-const geckos = require('@geckos.io/server').default
-// or with es6
 import geckos from '@geckos.io/server'
 
 const io = geckos()
