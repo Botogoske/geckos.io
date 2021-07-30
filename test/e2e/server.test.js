@@ -1,4 +1,5 @@
 /* eslint-disable sort-imports */
+import {jest} from '@jest/globals';
 import express  from 'express'
 import geckos from '../../packages/server/lib/index.js'
 import http  from 'http'
